@@ -1,0 +1,13 @@
+{
+  "maxValues": {
+    "param1": 2,
+    "param2": 2,
+    "param3": 2,
+    "param4": 2,
+    "param5": 2,
+    "param6": 2,
+    "param7": 2
+  },
+  "sites": ["site1", "site2", "site3"],
+  "defultSite": "site3"
+}
